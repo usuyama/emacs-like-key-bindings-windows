@@ -6,6 +6,8 @@ Downnload and run [the compiled standalone version](https://github.com/usuyama/e
 
 Or install [AutoHotKey](https://www.autohotkey.com/) and run the script
 
+![AutoHotKey in the system tray](ahk_tray.png)
+
 ## Usage
 
 The script uses CapsLock as the \<Control> modifier key in Emacs. We can still use the Ctrl keys for Windows shortcuts e.g. Ctrl+a.
