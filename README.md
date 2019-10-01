@@ -10,16 +10,16 @@ Or install [AutoHotKey](https://www.autohotkey.com/) and run the script
 
 ## Usage
 
-The script uses CapsLock as the \<Control> modifier key in Emacs. We can still use the Ctrl keys for Windows shortcuts e.g. Ctrl+a.
+The script uses CapsLock as the \<Control> modifier in Emacs. We can still use the Ctrl keys for Windows shortcuts e.g. Ctrl+a.
 
 |Command | Description|
 |---|---|
 | CapsLock + a  | Go to start of the line |
 | CapsLock + e  | Go to end of the line |
 | CapsLock + f  | Move forward one character  |
-| CapsLock + b  | Move forward one character  |
-| CapsLock + n  | Move down one screen line  |
-| CapsLock + p  | Move up one screen line  |
+| CapsLock + b  | Move backward one character  |
+| CapsLock + n  | Move down one line  |
+| CapsLock + p  | Move up one line  |
 
 ## Tested
 Tested on Windows 10 + English keyboard
