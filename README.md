@@ -1,4 +1,4 @@
-# Emacs-like (Mac-like) key-binding on Windows using [AutoHotKey](https://www.autohotkey.com/)
+# Emacs-like (Mac-like) key-bindings on Windows using [AutoHotKey](https://www.autohotkey.com/)
 
 ## Setup 
 
@@ -8,9 +8,9 @@ Or install [AutoHotKey](https://www.autohotkey.com/) and run the script
 
 ## Usage
 
-We'll use CapsLock as the \<Control> modifier key in Emacs. We can still use the original Ctrl keys for Windows shortcuts like Ctrl+c and Ctrl+v.
+The script uses CapsLock as the \<Control> modifier key in Emacs. We can still use the Ctrl keys for Windows shortcuts e.g. Ctrl+a.
 
-|   |   |
+|Command | Description|
 |---|---|
 | CapsLock + a  | Go to start of the line |
 | CapsLock + e  | Go to end of the line |
