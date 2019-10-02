@@ -13,7 +13,7 @@ Or install [AutoHotKey](https://www.autohotkey.com/) and run the script
 
 ## Usage
 
-The script uses CapsLock as the \<Control> modifier in Emacs. We can still use Ctrl keys for Windows shortcuts e.g. Ctrl+a.
+The script uses CapsLock as the \<Control> modifier in Emacs. In this way, we can still use Ctrl keys for other default shortcuts e.g. Ctrl+a, Ctrl+c, and etc.
 
 |Command | Description| Emacs defaults |
 |---|---|---|
