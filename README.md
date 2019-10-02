@@ -6,7 +6,10 @@ Downnload and run [the compiled standalone version](https://github.com/usuyama/e
 
 Or install [AutoHotKey](https://www.autohotkey.com/) and run the script
 
-![AutoHotKey in the system tray](ahk_tray.png)
+![Right-click the ahk file to run the script](ahk_right-click.png)
+
+##### AutoHotKey icon will appear in the system tray
+<img src="https://github.com/usuyama/emacs-like-key-bindings-windows/raw/master/ahk_tray.png?s=100" width=300 alt="AutoHotKey icon will appear in the system tray" />
 
 ## Usage
 
@@ -20,6 +23,8 @@ The script uses CapsLock as the \<Control> modifier in Emacs. We can still use C
 | CapsLock + b  | Move backward one character  | C-b |
 | CapsLock + n  | Move down one line  | C-n |
 | CapsLock + p  | Move up one line  | C-p |
+
+Check the .ahk script for other functionalities.
 
 ## Tested
 Tested on Windows 10 + English keyboard
