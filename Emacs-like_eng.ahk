@@ -1,8 +1,12 @@
 ;;
-;; An autohotkey script for Emacs-like keybinding on Windows
+;; An AutoHotKey script for Emacs-like key-bindings on Windows
 ;;
 #InstallKeybdHook
 #UseHook
+
+;https://gist.github.com/Danik/5808330
+#Persistent
+SetCapsLockState, AlwaysOff
 
 ; The following line is a contribution of NTEmacs wiki http://www49.atwiki.jp/ntemacs/pages/20.html
 SetKeyDelay 0
@@ -284,7 +288,7 @@ CapsLock & k::
   Else
     kill_line()
   Return
-  
+
 CapsLock & a::
   If is_target()
     Send %A_ThisHotkey%
