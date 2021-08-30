@@ -328,4 +328,4 @@ CapsLock & Space::
   If is_target()
      Send %A_ThisHotkey%
   Else
-     Send {LWin}
+     Send ^{space} # Also update PowerToys Run shortcut
