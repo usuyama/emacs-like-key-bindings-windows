@@ -23,6 +23,7 @@ The script uses CapsLock as the \<Control> modifier in Emacs. In this way, we ca
 | CapsLock + b  | Move backward one character  | C-b |
 | CapsLock + n  | Move down one line  | C-n |
 | CapsLock + p  | Move up one line  | C-p |
+| CapsLock + Space | Ctrl + Space (PowerToys Run for Spotlight-like UX) | |
 
 Check the .ahk script for other functionalities.
 
